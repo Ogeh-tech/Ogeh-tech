@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Ogeh-tech/Ogeh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Ogeh Sunmola
+ A passionate Data Analyst from London
 
-Here are some ideas to get you started:
+- 🔭 I have worked on [Market Analysis](https://github.com/Ogeh-tech/2-Market-Analysis.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, SQL, Power BI, Tableau, Machine Learning, and Data Storytelling**
+
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on Data Analytics, Business Intelligence, and Data Visualization Projects**
+
+- 🤝 I’m looking for help with **Machine Learning, Data Engineering, and Advanced Analytics**
+
+- 💬 Ask me about **Excel, SQL, Power BI, Tableau, Data Cleaning, Data Visualization, and Business Analytics**
+
+- 📫 How to reach me **ogehsunmola@outlook.com**
+
+- ⚡ Fun fact **I can spend hours analyzing data and still get excited when I find a hidden trend!**
+
+-  Connect with me
+
